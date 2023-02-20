@@ -1,7 +1,7 @@
 # Unbound-Blacklist
 A python script to download hosts files and block-lists and load them into a unbound (DNS Resolver)
 
-# Unbound-Blacklist
+# Path
 location = /etc/unbound/blacklist/
 
 # Phishtank
